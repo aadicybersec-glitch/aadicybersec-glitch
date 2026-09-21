@@ -17,16 +17,16 @@
 ### 🐍 Contribution Activity Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aadicybersec-glitch/aadicybersec-glitch/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aadicybersec-glitch/aadicybersec-glitch/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/aadicybersec-glitch/aadicybersec-glitch/output/github-contribution-grid-snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aadinadh-sm/aadinadh-sm/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aadinadh-sm/aadinadh-sm/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/aadinadh-sm/aadinadh-sm/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 Currently building **[Runtime Studio](https://github.com/aadicybersec-glitch/runtime-studio)** & **[CURIO](https://github.com/aadicybersec-glitch/CURIO)**
+- 🔭 Currently building **[Runtime Studio](https://github.com/aadinadh-sm/runtime-studio)** & **[CURIO](https://github.com/aadinadh-sm/CURIO)**
 - 🛡️ Passionate about **Cybersecurity, Web Security, & Automation Architecture**
 - 💻 Primary Stack: **TypeScript, Python, JavaScript, Next.js, React, Node.js, PHP**
 - 🌐 Active member & contributor in **GDGC (Google Developer Groups On Campus)**
@@ -53,12 +53,12 @@
 
 | Project | Description | Tech Stack | Live Demo |
 | :--- | :--- | :--- | :--- |
-| 🛠️ **[Runtime Studio](https://github.com/aadicybersec-glitch/runtime-studio)** | Resilient metadata-driven runtime platform for dynamic forms, dashboards, and workflows. | `TypeScript`, `React` | [Live App](https://runtime-studio.vercel.app) |
-| 🔮 **[CURIO](https://github.com/aadicybersec-glitch/CURIO)** | Intelligent automation & data processing application. | `Python` | [Live App](https://curio-vert-theta.vercel.app) |
-| 📊 **[Guruji Tax Solutions](https://github.com/aadicybersec-glitch/guruji-tax-solutions)** | Financial & tax consultancy platform with digital client tools. | `TypeScript` | [Live App](https://guruji-tax-solutions.vercel.app) |
-| ⚙️ **[FMCG RFP Automation](https://github.com/aadicybersec-glitch/fmcg-rfp-automation)** | Automated RFP workflow processing pipeline. | `Python` | — |
-| 🔍 **[SEO Pipeline](https://github.com/aadicybersec-glitch/seo-pipeline)** | Automated SEO audit and site performance analytics tool. | `JavaScript` | — |
-| 💼 **[SheCan Intern](https://github.com/aadicybersec-glitch/shecan-intern)** | Platform empowering internship and talent onboarding. | `JavaScript` | [Live App](https://shecan-intern.vercel.app) |
+| 🛠️ **[Runtime Studio](https://github.com/aadinadh-sm/runtime-studio)** | Resilient metadata-driven runtime platform for dynamic forms, dashboards, and workflows. | `TypeScript`, `React` | [Live App](https://runtime-studio.vercel.app) |
+| 🔮 **[CURIO](https://github.com/aadinadh-sm/CURIO)** | Intelligent automation & data processing application. | `Python` | [Live App](https://curio-vert-theta.vercel.app) |
+| 📊 **[Guruji Tax Solutions](https://github.com/aadinadh-sm/guruji-tax-solutions)** | Financial & tax consultancy platform with digital client tools. | `TypeScript` | [Live App](https://guruji-tax-solutions.vercel.app) |
+| ⚙️ **[FMCG RFP Automation](https://github.com/aadinadh-sm/fmcg-rfp-automation)** | Automated RFP workflow processing pipeline. | `Python` | — |
+| 🔍 **[SEO Pipeline](https://github.com/aadinadh-sm/seo-pipeline)** | Automated SEO audit and site performance analytics tool. | `JavaScript` | — |
+| 💼 **[SheCan Intern](https://github.com/aadinadh-sm/shecan-intern)** | Platform empowering internship and talent onboarding. | `JavaScript` | [Live App](https://shecan-intern.vercel.app) |
 
 ---
 
@@ -97,7 +97,7 @@
 ### 📈 GitHub Analytics & Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aadicybersec-glitch&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="80%" />
+  <img src="https://streak-stats.demolab.com?user=aadinadh-sm&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="80%" />
 </p>
 
 ---
@@ -110,5 +110,5 @@
 
 ### 📫 Connect & Reach Me
 
-- 💼 **GitHub**: [@aadicybersec-glitch](https://github.com/aadicybersec-glitch)
+- 💼 **GitHub**: [@aadinadh-sm](https://github.com/aadinadh-sm)
 - ⚡ **Domain**: Cybersecurity, Automation, Web Engineering
