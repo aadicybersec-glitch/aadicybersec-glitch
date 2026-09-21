@@ -48,11 +48,10 @@
 
 ---
 
-### 📈 GitHub Analytics
+### 📈 GitHub Streak & Activity Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadicybersec-glitch&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadicybersec-glitch&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=aadicybersec-glitch&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="80%" />
 </p>
 
 ---
