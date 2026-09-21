@@ -6,7 +6,22 @@
   </a>
 </p>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=aadicybersec-glitch&color=61afef&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity_%26_Full--Stack-blue?style=for-the-badge&logo=shield" alt="Focus Badge" />
+</p>
+
 > **Cybersecurity Enthusiast & Full-Stack Developer** building resilient web applications, metadata-driven runtime engines, and automated workflow pipelines.
+
+---
+
+### 🐍 Contribution Activity Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aadicybersec-glitch/aadicybersec-glitch/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aadicybersec-glitch/aadicybersec-glitch/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/aadicybersec-glitch/aadicybersec-glitch/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
 ---
 
@@ -15,7 +30,7 @@
 - 🔭 Currently building **[Runtime Studio](https://github.com/aadicybersec-glitch/runtime-studio)** & **[CURIO](https://github.com/aadicybersec-glitch/CURIO)**
 - 🛡️ Passionate about **Cybersecurity, Web Security, & Automation Architecture**
 - 💻 Primary Stack: **TypeScript, Python, JavaScript, Next.js, React, Node.js, PHP**
-- 🌐 Active contributor in developer communities & GDGC (Google Developer Groups On Campus)
+- 🌐 Active member & contributor in **GDGC (Google Developer Groups On Campus)**
 
 ---
 
@@ -48,11 +63,49 @@
 
 ---
 
-### 📈 GitHub Streak & Activity Analytics
+### 🔍 Deep Dive & Specializations
+
+<details>
+  <summary><b>🛡️ Cybersecurity & Web Application Security</b> (Click to expand)</summary>
+  <br>
+  <ul>
+    <li><b>Web Application Security:</b> OWASP Top 10 mitigation, authentication flow hardening, CORS/CSP policy enforcement.</li>
+    <li><b>Automated Security Auditing:</b> Scripting custom Python & JavaScript tools for pipeline vulnerability scanning & log analysis.</li>
+    <li><b>Penetration Testing & Analysis:</b> Reconnaissance, API security auditing, and secure coding practices.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>🏗️ Architecture & Metadata-Driven Systems</b> (Click to expand)</summary>
+  <br>
+  <ul>
+    <li><b>Metadata Runtimes:</b> Designing dynamic JSON/schema-driven engine architectures for rapid UI & workflow generation (e.g., <i>Runtime Studio</i>).</li>
+    <li><b>Pipeline Automation:</b> Building resilient asynchronous data processing pipelines with fault-tolerant error handling (e.g., <i>FMCG RFP Automation</i> & <i>SEO Pipeline</i>).</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>🏆 Developer Community & Leadership</b> (Click to expand)</summary>
+  <br>
+  <ul>
+    <li>Active member of <b>Google Developer Groups On Campus (GDGC)</b>.</li>
+    <li>Participant in open-source developer challenges and community technical workshops.</li>
+  </ul>
+</details>
+
+---
+
+### 📈 GitHub Analytics & Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aadicybersec-glitch&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="80%" />
 </p>
+
+---
+
+### ⚡ Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
