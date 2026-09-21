@@ -7,7 +7,6 @@
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=aadicybersec-glitch&color=61afef&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Focus-Cybersecurity_%26_Full--Stack-blue?style=for-the-badge&logo=shield" alt="Focus Badge" />
 </p>
 
